@@ -50,11 +50,7 @@ show, the list of bonding pairs takes the pane and the pair the cursor names is 
 
 Polyforms are built in construction windows: `n` opens another and `w` cycles between them. The
 rules come off all of them at once, so an arrangement stays on the books while the next is built
-beside it. `f` turns on fully addressable mode, which gives every placement a species o
-
-## Documentationf its own,
-so each bond names one particular pair of particles rather than a pair of species.
-
+beside it. `f` turns on fully addressable mode.
 A fourth pane enumerates the polyforms the rules allow, which can be triggered by pressing `e`.
 
 3D species are drawn in isometric projection as braille wireframes.
