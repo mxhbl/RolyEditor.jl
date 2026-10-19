@@ -13,7 +13,7 @@ as the source of its own dependency, so adding RolyEditor is enough:
 
 ```julia
 using Pkg
-Pkg.add(url="https://github.com/goodrichgroup/RolyEditor.jl")
+Pkg.add(url="https://github.com/mxhbl/RolyEditor.jl")
 ```
 
 ## Usage
