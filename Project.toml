@@ -1,0 +1,20 @@
+name = "RolyEditor"
+uuid = "d5c2dded-2400-41b7-8f60-0ba56edd4706"
+version = "0.1.0"
+authors = ["Maximilian HUEBL <maximilian.huebl@ist.ac.at>"]
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Roly = "1621a601-f9d4-49dc-b032-1328811fec3a"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Tachikoma = "468859d6-42d8-48b7-8ad9-1d312e0e3b0a"
+
+[sources]
+Roly = {url = "https://github.com/goodrichgroup/Roly.jl"}
+
+[compat]
+LinearAlgebra = "1.12"
+Roly = "0.3.0"
+StaticArrays = "1.9"
+Tachikoma = "2.7"
+julia = "1.12"

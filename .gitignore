@@ -1,0 +1,11 @@
+Manifest.toml
+**/Manifest.toml
+
+/docs/build/
+
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+/lcov.info
+
+.DS_Store
